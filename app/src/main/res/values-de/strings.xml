@@ -317,5 +317,9 @@
     <string name="something_wrong">Etwas ist schief gelaufen</string>
     <string name="save_log">Protokoll speichern</string>
     <string name="open_again">App erneut öffnen</string>
+    
+    <!--Disable Wifi/bluetooth-->
+    <string name="disablewifi">Do you really want to disable WiFi?</string>
+    <string name="disableblue">Do you really want to disable Bluetooth?</string>
 
 </resources>
